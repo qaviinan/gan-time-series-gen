@@ -305,10 +305,3 @@ We welcome contributions from the community! To contribute:
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## 📫 Contact
-
-For questions, suggestions, or support, please contact:
-
-- **Your Name** - [your.email@example.com](mailto:your.email@example.com)
-- **GitHub:** [https://github.com/yourusername/high_freq_crypto_gan](https://github.com/yourusername/high_freq_crypto_gan)
