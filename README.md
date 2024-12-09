@@ -2,7 +2,7 @@
 
 ![Crypto GAN](https://example.com/crypto-gan-banner.png)
 
-Welcome to **High-Frequency Crypto GAN CLI Tool**, a powerful command-line application designed to generate high-frequency synthetic cryptocurrency time-series data using a Generative Adversarial Network (GAN) approach. Whether you're a data scientist, financial analyst, or crypto enthusiast, this tool empowers you to create realistic synthetic data for modeling, testing, and simulation purposes.
+Welcome to **High-Frequency Crypto GAN CLI Tool**, a powerful command-line application designed to generate high-frequency synthetic cryptocurrency time-series data using a Generative Adversarial Network (GAN) approach.
 
 ## 🚀 Features
 
